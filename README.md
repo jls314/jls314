@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin
-- 👀 I’m interested in Front End Web Development.
+- 👀 I’m interested in Front End Web Development. I've been writing HTML/CSS for a year and a half now.
 - 🌱 I’m currently learning Javascript and frameworks & libraries such as React Js. I will also check Wordpress development since it is one of the most popular CMS right now.
 - 📫 How to reach me:
 - Email me: justin.santos1997@gmail.com
